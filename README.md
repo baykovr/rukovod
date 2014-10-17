@@ -4,6 +4,7 @@ rukovod
 Mass email from CSV files.
 
 Setup:
+    
     # In rukovod.py modify the following starting @15
     
     # number of seconds to wait in between sending emails
