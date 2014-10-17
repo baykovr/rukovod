@@ -11,7 +11,8 @@ Basic usage:
 CSV file structure:
 
     The csv file must contain at least one column (and header) titled 'email'
-    this field dicates the destination address, the other columns will be placed in the email body.
+    this field dicates the destination address, 
+    the other columns will be placed in the email body.
     
     Example (test.csv)
     
