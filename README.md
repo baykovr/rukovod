@@ -3,6 +3,20 @@ rukovod
 
 Mass email from CSV files.
 
+Setup:
+    # In rukovod.py modify the following starting @15
+    
+    # number of seconds to wait in between sending emails
+    TIME_DELAY = 1 
+
+    # email from field, ie something@something.edu
+    EMAIL_FROM = 'REDACTED'
+
+    # email authentications, ie password for something@something.edu
+    EMAIL_AUTH = 'REDACTED'
+
+    # email subject
+    EMAIL_SUBJ = 'REDACTED'
 
 Basic usage:
 
